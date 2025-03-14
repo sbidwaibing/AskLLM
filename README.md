@@ -143,7 +143,7 @@ The model weights are licensed under the MIT License. DeepSeek-R1 series support
 
 ### 7. Contact
 
-For any issues or inquiries, feel free to raise a ticket or email us at [your-email@example.com].
+For any issues or inquiries, feel free to raise a ticket or email us at [Gmail][s.bidwai2000@gmail.com].
 
 ---
 
